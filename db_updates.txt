@@ -1,0 +1,9 @@
+users
+    auth_token
+mobile_config
+mobile_orders
+mobile_order_items
+orders
+    comment
+menu
+mobile_banners
